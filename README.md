@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm **Tanmayi D** from Bengaluru, India.
 
-- My preferred pronouns are **She/Her/Hers** 🏳️
 - I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
 - I work as a Software Engineer 🏢
 - I love exploring and learning new technologies ✨
