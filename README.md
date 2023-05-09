@@ -37,7 +37,7 @@ I'm **Tanmayi D** from Bengaluru, India.
 
 - [Notes App](https://tanmayidev.github.io/notes-app/)
 - [Google Keep Clone](https://tanmayidev.github.io/google-keep-clone/)
-- [Peer Talk WebRTC using Peer.js](https://github.com/tanmayidev/peer-talk-webRTC)
+- [WebRTC trial-1 using Peer.js](https://github.com/tanmayidev/webRTC-trial-1)
 - [Comparing jest and vitest unit testing framework for NX monorepo](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo)
 
 ### Let's connect
