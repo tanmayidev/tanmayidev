@@ -20,7 +20,7 @@ I'm **Tanmayi D** from Bengaluru, India.
 - I love exploring and learning new technologies 
 
 
-### Ssome of the projects I've worked on
+### Some of the projects I've worked on
 
 #### Projects
 <ul>
