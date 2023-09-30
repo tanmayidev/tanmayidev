@@ -29,24 +29,15 @@ I'm **Tanmayi D** from Bengaluru, India.
   <li><a href="https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo" target="_blank" rel="noreferrer">Comparing jest and vitest unit testing framework for NX monorepo</a></li>
 </ul>
 
-<!--
-#### Backend Projects
-
-#### Fullstack Projects
-
-
-- [Quiz Application](https://tanmayidev.github.io/quiz-app-using-react/)
-- [WebRTC trial-1 using Peer.js](https://github.com/tanmayidev/webRTC-trial-1)
-- [Comparing jest and vitest unit testing framework for NX monorepo](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo)
--->
 ### Let's connect
-
 
 <a href="https://www.linkedin.com/in/tanmayi-d-a875ba1a4/" target="_blank" rel="noreferrer">
   <img align="left" src="images/linkedin.png"
     height="32" width="32" />
 </a>
+
 <!--
+
 <a href="https://codepen.io/tanmayid" target="_blank" rel="noreferrer">
   <img align="left" src="images/codepen.png" alt="mohammedsanaullah"
     height="32" width="32" />
@@ -56,8 +47,8 @@ I'm **Tanmayi D** from Bengaluru, India.
     src="images/hackerrank.png"
     alt="mohammedsanaullah" height="34" width="34" />
 </a>
--->
-<!--
+
+
 ### Recent blogs
 // Use Hashnode or Medium Articles / Hashnode (most probably)
 - []()
