@@ -22,7 +22,6 @@ I'm **Tanmayi D** from Bengaluru, India.
 
 ### Some of the projects I've worked on
 
-#### Projects
 <ul>
   <li><a href="https://tanmayidev.github.io/google-keep-clone/" target="_blank" rel="noreferrer">Google Keep Clone</a></li>
   <li><a href="https://tanmayidev.github.io/quiz-app-using-react/" target="_blank" rel="noreferrer">Quiz Application</a></li>
