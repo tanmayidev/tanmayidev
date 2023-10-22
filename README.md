@@ -26,6 +26,13 @@ I'm **Tanmayi D** from Bengaluru, India.
   <li><a href="https://tanmayidev.github.io/google-keep-clone/" target="_blank" rel="noreferrer">Google Keep Clone</a></li>
   <li><a href="https://tanmayidev.github.io/quiz-app-using-react/" target="_blank" rel="noreferrer">Quiz Application</a></li>
   <li><a href="https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo" target="_blank" rel="noreferrer">Comparing jest and vitest unit testing framework for NX monorepo</a></li>
+  <!--
+  <li><a href="https://tanmayidev.github.io/emoji-browser/" target="_blank" rel="noreferrer">Emoji Browser<a/></li>
+  <li><a href="https://tanmayidev.github.io/slideshow-app/" target="_blank" rel="noreferrer">SlideShow App<a/></li>
+  <li><a href="https://tanmayidev.github.io/sorting-articles/" target="_blank" rel="noreferrer">Sorting Articles<a/></li>
+  <li><a href="https://tanmayidev.github.io/notes-app/" target="_blank" rel="noreferrer">Notes App<a/></li>
+  <li><a href="https://tanmayidev.github.io/music-player-vanillajs/" target="_blank" rel="noreferrer">Music App<a/></li>
+  -->
 </ul>
 
 ### Let's connect
