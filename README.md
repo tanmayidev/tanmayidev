@@ -19,6 +19,14 @@ I'm **Tanmayi D** from Bengaluru, India.
 - I love exploring and learning new technologies 
 
 
+<!--
+### Portfolio Websites - All different design iterations
+
+  <li><a href="https://tanmayidev.github.io/portfolio-v1/" target="_blank" rel="noreferrer">Portfolio Version 1</a></li>
+
+-->
+
+
 ### Some of the projects I've worked on
 
 <ul>
