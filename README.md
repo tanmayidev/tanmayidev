@@ -22,6 +22,7 @@ I'm **Tanmayi D** from Bengaluru, India.
 ### Some of the projects I've worked on
 
 <ul>
+  <li><a href="https://tanmayidev.github.io/serene-shop/" target="_blank" rel="noreferrer">Serene Shop</a></li>
   <li><a href="https://tanmayidev.github.io/google-keep-clone/" target="_blank" rel="noreferrer">Google Keep Clone</a></li>
   <li><a href="https://tanmayidev.github.io/quiz-app-using-react/" target="_blank" rel="noreferrer">Quiz Application</a></li>
   <li><a href="https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo" target="_blank" rel="noreferrer">Comparing jest and vitest unit testing framework for NX monorepo</a></li>
