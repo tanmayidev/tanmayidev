@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 I'm **Tanmayi D** from Bengaluru, India.
 
-- I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications.
-- I work as a Software Engineer 
+- I'm a **Software Engineer** and I specialize in creating secure and scalable fullstack web applications
 - I love exploring and learning new technologies 
 
 
