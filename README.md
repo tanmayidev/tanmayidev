@@ -33,20 +33,20 @@ I'm **Tanmayi D** from Bengaluru, India.
 
 ### Some of the projects I've worked on
 <!-- Make Table, add tags for frontend and backend sites and repos -->
-| Project Name |      Description                |  Tag     |  Tech Stack     |Demo  | Source |
+| Project Name |      Description                |  Tag     |  Tech Stack     |Demo  | Code |
 |----------    |:-------------------------------:|:--------:|:--------:|:-----:|:------:|
-| Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Source](https://github.com/tanmayidev/serene-shop) |
-| Google Keep Clone  | Clone with fewer features | Frontend | React | [Demo](https://tanmayidev.github.io/google-keep-clone)  | [Source](https://github.com/tanmayidev/google-keep-clone) |
-| CoinTrackr  | Information about cryptocurrencies in real-time  | Frontend | React, SCSS | [Demo](https://tanmayidev.github.io/cointrackr-crypto/)  | [Source](https://github.com/tanmayidev/cointrackr-crypto) |
-| Though Track  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Source](https://github.com/tanmayidev/thought-track) |
-| OmniFood  | Online food delivery website | Frontend | HTML, CSS | [Demo](https://tanmayidev.github.io/omni-food/)  | [Source](https://github.com/tanmayidev/omni-food) |
-| AES Cryptor  | Encrypt and Decrypt data with this SPA | Frontend | NextJS, Crypto | Demo  | [Source](https://github.com/tanmayidev/aes-cryptor) |
-| Quiz App  | Basic quiz app with neumorphic ui | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Source](https://github.com/tanmayidev/quiz-app-using-react) |
-| Compare Jest vs Vitest  | Benchmark testing for nx monorepo | Jest, Vitest | Frontend | -  | [Source](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo) |
-| Rate Limiter  | Implementation of 4 rate limiting algorithms | Backend | Node, Express, Postman | -  | [Source](https://github.com/tanmayidev/rate-limiter) |
-| EV Charging Station  | REST APIs for Backend System | Backend | Express, SQLite, Sequelize | -  | [Source](https://github.com/tanmayidev/ev-charging-station-backend) |
-| Newsletter App  | Backend System design for Newsletter Service | Backend | Express, SQLite | -  | [Source](https://github.com/tanmayidev/newsletter-service) |
-| LaunchED  | Learning Management System built using Django | FullStack | HTML, CSS, Django, SQLite| -  | [Source](https://github.com/tanmayidev/LaunchED) |
+| Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Code](https://github.com/tanmayidev/serene-shop) |
+| Google Keep Clone  | Clone with fewer features | Frontend | React | [Demo](https://tanmayidev.github.io/google-keep-clone)  | [Code](https://github.com/tanmayidev/google-keep-clone) |
+| CoinTrackr  | Information about cryptocurrencies in real-time  | Frontend | React, SCSS | [Demo](https://tanmayidev.github.io/cointrackr-crypto/)  | [Code](https://github.com/tanmayidev/cointrackr-crypto) |
+| Though Track  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Code](https://github.com/tanmayidev/thought-track) |
+| OmniFood  | Online food delivery website | Frontend | HTML, CSS | [Demo](https://tanmayidev.github.io/omni-food/)  | [Code](https://github.com/tanmayidev/omni-food) |
+| AES Cryptor  | Encrypt and Decrypt data with this SPA | Frontend | NextJS, Crypto | Demo  | [Code](https://github.com/tanmayidev/aes-cryptor) |
+| Quiz App  | Basic quiz app with neumorphic ui | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) |
+| Compare Jest vs Vitest  | Benchmark testing for nx monorepo | Jest, Vitest | Frontend | -  | [Code](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo) |
+| Rate Limiter  | Implementation of 4 rate limiting algorithms | Backend | Node, Express, Postman | -  | [Code](https://github.com/tanmayidev/rate-limiter) |
+| EV Charging Station  | REST APIs for Backend System | Backend | Express, SQLite, Sequelize | -  | [Code](https://github.com/tanmayidev/ev-charging-station-backend) |
+| Newsletter App  | Backend System design for Newsletter Service | Backend | Express, SQLite | -  | [Code](https://github.com/tanmayidev/newsletter-service) |
+| LaunchED  | Learning Management System built using Django | FullStack | HTML, CSS, Django, SQLite| -  | [Code](https://github.com/tanmayidev/LaunchED) |
 <!--
 <ul>
   <li><a href="https://tanmayidev.github.io/emoji-browser/" target="_blank" rel="noreferrer">Emoji Browser<a/></li>
