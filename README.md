@@ -32,39 +32,48 @@ I'm **Tanmayi D** from Bengaluru, India.
 
 
 ### Some of the projects I've worked on
-
+<!-- Make Table, add tags for frontend and backend sites and repos -->
+| Project Name |      Description                |  Tag     |  Tech Stack     |Demo  | Source |
+|----------    |:-------------------------------:|:--------:|:--------:|:-----:|:------:|
+| Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Source](https://github.com/tanmayidev/serene-shop) |
+| Google Keep Clone  | Clone with fewer features | Frontend | React | [Demo](https://tanmayidev.github.io/google-keep-clone)  | [Source](https://github.com/tanmayidev/google-keep-clone) |
+| CoinTrackr  | Information about cryptocurrencies in real-time  | Frontend | React, SCSS | [Demo](https://tanmayidev.github.io/cointrackr-crypto/)  | [Source](https://github.com/tanmayidev/cointrackr-crypto) |
+| Though Track  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Source](https://github.com/tanmayidev/thought-track) |
+| OmniFood  | Online food delivery website | Frontend | HTML, CSS | [Demo](https://tanmayidev.github.io/omni-food/)  | [Source](https://github.com/tanmayidev/omni-food) |
+| AES Cryptor  | Encrypt and Decrypt data with this SPA | Frontend | NextJS, Crypto | Demo  | [Source](https://github.com/tanmayidev/aes-cryptor) |
+| Quiz App  | Basic quiz app with neumorphic ui | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Source](https://github.com/tanmayidev/quiz-app-using-react) |
+| Compare Jest vs Vitest  | Benchmark testing for nx monorepo | Jest, Vitest | Frontend | -  | [Source](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo) |
+| Rate Limiter  | Implementation of 4 rate limiting algorithms | Backend | Node, Express, Postman | -  | [Source](https://github.com/tanmayidev/rate-limiter) |
+| EV Charging Station  | REST APIs for Backend System | Backend | Express, SQLite, Sequelize | -  | [Source](https://github.com/tanmayidev/ev-charging-station-backend) |
+| Newsletter App  | Backend System design for Newsletter Service | Backend | Express, SQLite | -  | [Source](https://github.com/tanmayidev/newsletter-service) |
+| LaunchED  | Learning Management System built using Django | FullStack | HTML, CSS, Django, SQLite| -  | [Source](https://github.com/tanmayidev/LaunchED) |
+<!--
 <ul>
-  <li><a href="https://tanmayidev.github.io/serene-shop/" target="_blank" rel="noreferrer">Serene Shop - Minimalistic E-commerce website</a></li>
-  <li><a href="https://tanmayidev.github.io/google-keep-clone/" target="_blank" rel="noreferrer">Google Keep Clone</a></li>
-  <li><a href="https://tanmayidev.github.io/cointrackr-crypto/" target="_blank" rel="noreferrer">CoinTrackr - Search about Cryptocurrencies</a></li>
-  <li><a href="https://tanmayidev.github.io/quiz-app-using-react/" target="_blank" rel="noreferrer">Quiz Application</a></li>
-  <li><a href="https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo" target="_blank" rel="noreferrer">Comparing jest and vitest unit testing framework for NX monorepo</a></li>
-  <!--
   <li><a href="https://tanmayidev.github.io/emoji-browser/" target="_blank" rel="noreferrer">Emoji Browser<a/></li>
   <li><a href="https://tanmayidev.github.io/slideshow-app/" target="_blank" rel="noreferrer">SlideShow App<a/></li>
   <li><a href="https://tanmayidev.github.io/sorting-articles/" target="_blank" rel="noreferrer">Sorting Articles<a/></li>
   <li><a href="https://tanmayidev.github.io/notes-app/" target="_blank" rel="noreferrer">Notes App<a/></li>
   <li><a href="https://tanmayidev.github.io/music-player-vanillajs/" target="_blank" rel="noreferrer">Music App<a/></li>
-  -->
-</ul>
+</ul> 
+-->
 
 ### Let's connect
 
 <a href="https://www.linkedin.com/in/tanmayi-d-a875ba1a4/" target="_blank" rel="noreferrer">
-  <img align="left" src="images/linkedin.png"
+  <img align="left" src="images/linkedin.png" alt="linkedin logo"
     height="32" width="32" />
 </a>
 
 <!--
 
 <a href="https://codepen.io/tanmayid" target="_blank" rel="noreferrer">
-  <img align="left" src="images/codepen.png" alt="mohammedsanaullah"
+  <img align="left" src="images/codepen.png" alt="codepen logo"
     height="32" width="32" />
 </a>
 <a href="https://www.hackerrank.com/tanmayi_d" target="_blank" rel="noreferrer">
   <img align="left"
     src="images/hackerrank.png"
-    alt="mohammedsanaullah" height="34" width="34" />
+    alt="hackerrank logo" height="34" width="34" />
 </a>
 
 
