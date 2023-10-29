@@ -23,6 +23,10 @@ I'm **Tanmayi D** from Bengaluru, India.
 ### Portfolio Websites - All different design iterations
 
   <li><a href="https://tanmayidev.github.io/portfolio-v1/" target="_blank" rel="noreferrer">Portfolio Version 1</a></li>
+  <li><a href="https://tanmayidev.github.io/portfolio-v2/" target="_blank" rel="noreferrer">Portfolio Version 2</a></li>
+  <li><a href="https://tanmayidev.github.io/portfolio-v3/" target="_blank" rel="noreferrer">Portfolio Version 3</a></li>
+  <li><a href="https://tanmayidev.github.io/portfolio-v4/" target="_blank" rel="noreferrer">Portfolio Version 4</a></li>
+  <li><a href="https://tanmayidev.github.io/portfolio-v5/" target="_blank" rel="noreferrer">Portfolio Version 5</a></li>
 
 -->
 
