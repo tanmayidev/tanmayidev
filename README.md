@@ -41,21 +41,12 @@ I'm **Tanmayi D** from Bengaluru, India.
 | Though Track  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Code](https://github.com/tanmayidev/thought-track) |
 | OmniFood  | Online food delivery website | Frontend | HTML, CSS | [Demo](https://tanmayidev.github.io/omni-food/)  | [Code](https://github.com/tanmayidev/omni-food) |
 | AES Cryptor  | Encrypt and Decrypt data with this SPA | Frontend | NextJS, Crypto | Demo  | [Code](https://github.com/tanmayidev/aes-cryptor) |
-| Quiz App  | Basic quiz app with neumorphic ui | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) |
 | Compare Jest vs Vitest  | Benchmark testing for nx monorepo | Jest, Vitest | Frontend | -  | [Code](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo) |
 | Rate Limiter  | Implementation of 4 rate limiting algorithms | Backend | Node, Express, Postman | -  | [Code](https://github.com/tanmayidev/rate-limiter) |
 | EV Charging Station  | REST APIs for Backend System | Backend | Express, SQLite, Sequelize | -  | [Code](https://github.com/tanmayidev/ev-charging-station-backend) |
 | Newsletter App  | Backend System design for Newsletter Service | Backend | Express, SQLite | -  | [Code](https://github.com/tanmayidev/newsletter-service) |
 | LaunchED  | Learning Management System built using Django | FullStack | HTML, CSS, Django, SQLite| -  | [Code](https://github.com/tanmayidev/LaunchED) |
-<!--
-<ul>
-  <li><a href="https://tanmayidev.github.io/emoji-browser/" target="_blank" rel="noreferrer">Emoji Browser<a/></li>
-  <li><a href="https://tanmayidev.github.io/slideshow-app/" target="_blank" rel="noreferrer">SlideShow App<a/></li>
-  <li><a href="https://tanmayidev.github.io/sorting-articles/" target="_blank" rel="noreferrer">Sorting Articles<a/></li>
-  <li><a href="https://tanmayidev.github.io/notes-app/" target="_blank" rel="noreferrer">Notes App<a/></li>
-  <li><a href="https://tanmayidev.github.io/music-player-vanillajs/" target="_blank" rel="noreferrer">Music App<a/></li>
-</ul> 
--->
+
 
 ### Let's connect
 
@@ -65,6 +56,13 @@ I'm **Tanmayi D** from Bengaluru, India.
 </a>
 
 <!--
+
+| Quiz App  | Basic quiz app with neumorphic ui | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
+| Emoji Browser  | Browse emojis by filter and pages | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
+|Slideshow App  | Hackerrank challenge | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
+| Sorting Articles  | Hackerrank challenge | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
+| Notes App  | Simple notes app | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
+| Music App | Simple Music App | Frontend | HTML, CSS, JS | [Demo](https://tanmayidev.github.io/quiz-app-using-react/)  | [Code](https://github.com/tanmayidev/quiz-app-using-react) | comment |
 
 <a href="https://codepen.io/tanmayid" target="_blank" rel="noreferrer">
   <img align="left" src="images/codepen.png" alt="codepen logo"
@@ -80,6 +78,8 @@ I'm **Tanmayi D** from Bengaluru, India.
 ### Recent blogs
 // Use Hashnode or Medium Articles / Hashnode (most probably)
 - []()
+
+
 
 -->
 
