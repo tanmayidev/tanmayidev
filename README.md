@@ -34,7 +34,7 @@ I'm **Tanmayi D** from Bengaluru, India.
 ### Some of the projects I've worked on
 <!-- Make Table, add tags for frontend and backend sites and repos -->
 | Project Name |      Description                |  Tag     |  Tech Stack     |Demo  | Code |
-|----------    |:-------------------------------:|:--------:|:--------:|:-----:|:------:|
+|----------    |:-------------------------------|:--------|:--------|:-----|:------|
 | Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Code](https://github.com/tanmayidev/serene-shop) |
 | Google Keep Clone  | Clone with fewer features | Frontend | React | [Demo](https://tanmayidev.github.io/google-keep-clone)  | [Code](https://github.com/tanmayidev/google-keep-clone) |
 | CoinTrackr  | Information about cryptocurrencies in real-time  | Frontend | React, SCSS | [Demo](https://tanmayidev.github.io/cointrackr-crypto/)  | [Code](https://github.com/tanmayidev/cointrackr-crypto) |
