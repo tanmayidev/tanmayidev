@@ -38,7 +38,7 @@ I'm **Tanmayi D** from Bengaluru, India.
 | Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Code](https://github.com/tanmayidev/serene-shop) |
 | Google Keep Clone  | Clone with fewer features | Frontend | React | [Demo](https://tanmayidev.github.io/google-keep-clone)  | [Code](https://github.com/tanmayidev/google-keep-clone) |
 | CoinTrackr  | Information about cryptocurrencies in real-time  | Frontend | React, SCSS | [Demo](https://tanmayidev.github.io/cointrackr-crypto/)  | [Code](https://github.com/tanmayidev/cointrackr-crypto) |
-| Though Track  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Code](https://github.com/tanmayidev/thought-track) |
+| MarkItMate  | Markdown Notes App  | Frontend | React, Typescript | Demo  | [Code](https://github.com/tanmayidev/mark-it-mate) |
 | OmniFood  | Online food delivery website | Frontend | HTML, CSS | [Demo](https://tanmayidev.github.io/omni-food/)  | [Code](https://github.com/tanmayidev/omni-food) |
 | AES Cryptor  | Encrypt and Decrypt data with this SPA | Frontend | NextJS, Crypto | Demo  | [Code](https://github.com/tanmayidev/aes-cryptor) |
 | Compare Jest vs Vitest  | Benchmark testing for nx monorepo | Jest, Vitest | Frontend | -  | [Code](https://github.com/tanmayidev/jest-vs-vitest-nx-monorepo) |
