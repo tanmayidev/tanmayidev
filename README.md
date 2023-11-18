@@ -30,9 +30,8 @@ I'm **Tanmayi D** from Bengaluru, India.
 
 -->
 
-
-### Some of the projects I've worked on
-<!-- Make Table, add tags for frontend and backend sites and repos -->
+<!--
+### Some of the projects I've worked on 
 | Project Name |      Description                |  Tag     |  Tech Stack     |Demo  | Code |
 |----------    |:-------------------------------|:--------|:--------|:-----|:------|
 | Serene Shop  | Minimalistic E-commerce website | Frontend | React, CSS | [Demo](https://tanmayidev.github.io/serene-shop/)  | [Code](https://github.com/tanmayidev/serene-shop) |
@@ -47,6 +46,9 @@ I'm **Tanmayi D** from Bengaluru, India.
 | Newsletter App  | Backend System design for Newsletter Service | Backend | Express, SQLite | -  | [Code](https://github.com/tanmayidev/newsletter-service) |
 | LaunchED  | Learning Management System built using Django | FullStack | HTML, CSS, Django, SQLite| -  | [Code](https://github.com/tanmayidev/LaunchED) |
 
+-->
+
+<!--
 
 ### Let's connect
 
@@ -54,6 +56,8 @@ I'm **Tanmayi D** from Bengaluru, India.
   <img align="left" src="images/linkedin.png" alt="linkedin logo"
     height="32" width="32" />
 </a>
+
+-->
 
 <!--
 
